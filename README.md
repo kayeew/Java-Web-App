@@ -17,13 +17,13 @@ A  basic booking java web application where a user can register/login to request
 - Login/registration system - allowing user to register and sign to make bookings. 
 - Basic booking system – where users make simple request for a date of choice and waits for admin for approval. 
 
-Account functions: 
 User account:
-•	Make a booking request.
-•	Cancel booking request.
-Admin account
-•	Approve bookings
-•	View all registered users with search bar
+- Make a booking request.
+- Cancel booking request.
+
+Admin account:
+- Approve bookings
+- View all registered users with search bar
 
 Note: By default all signup accounts are type user 
 Have to manually change user type to admin in the database to get admin access
